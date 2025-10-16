@@ -1,0 +1,11 @@
+C:\Calidad\Nomina\Nomina.Dominio\bin\Debug\net8.0\Nomina.Dominio.deps.json
+C:\Calidad\Nomina\Nomina.Dominio\bin\Debug\net8.0\Nomina.Dominio.dll
+C:\Calidad\Nomina\Nomina.Dominio\bin\Debug\net8.0\Nomina.Dominio.pdb
+C:\Calidad\Nomina\Nomina.Dominio\obj\Debug\net8.0\Nomina.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Calidad\Nomina\Nomina.Dominio\obj\Debug\net8.0\Nomina.Dominio.AssemblyInfoInputs.cache
+C:\Calidad\Nomina\Nomina.Dominio\obj\Debug\net8.0\Nomina.Dominio.AssemblyInfo.cs
+C:\Calidad\Nomina\Nomina.Dominio\obj\Debug\net8.0\Nomina.Dominio.csproj.CoreCompileInputs.cache
+C:\Calidad\Nomina\Nomina.Dominio\obj\Debug\net8.0\Nomina.Dominio.dll
+C:\Calidad\Nomina\Nomina.Dominio\obj\Debug\net8.0\refint\Nomina.Dominio.dll
+C:\Calidad\Nomina\Nomina.Dominio\obj\Debug\net8.0\Nomina.Dominio.pdb
+C:\Calidad\Nomina\Nomina.Dominio\obj\Debug\net8.0\ref\Nomina.Dominio.dll

@@ -1,0 +1,17 @@
+C:\Calidad\Nomina\Nomina.Aplicacion\obj\Debug\net8.0\Nomina.Aplicacion.csproj.AssemblyReference.cache
+C:\Calidad\Nomina\Nomina.Aplicacion\obj\Debug\net8.0\Nomina.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Calidad\Nomina\Nomina.Aplicacion\obj\Debug\net8.0\Nomina.Aplicacion.AssemblyInfoInputs.cache
+C:\Calidad\Nomina\Nomina.Aplicacion\obj\Debug\net8.0\Nomina.Aplicacion.AssemblyInfo.cs
+C:\Calidad\Nomina\Nomina.Aplicacion\obj\Debug\net8.0\Nomina.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Calidad\Nomina\Nomina.Aplicacion\bin\Debug\net8.0\Nomina.Aplicacion.deps.json
+C:\Calidad\Nomina\Nomina.Aplicacion\bin\Debug\net8.0\Nomina.Aplicacion.dll
+C:\Calidad\Nomina\Nomina.Aplicacion\bin\Debug\net8.0\Nomina.Aplicacion.pdb
+C:\Calidad\Nomina\Nomina.Aplicacion\bin\Debug\net8.0\Nomina.Dominio.dll
+C:\Calidad\Nomina\Nomina.Aplicacion\bin\Debug\net8.0\Nomina.Persistencia.dll
+C:\Calidad\Nomina\Nomina.Aplicacion\bin\Debug\net8.0\Nomina.Dominio.pdb
+C:\Calidad\Nomina\Nomina.Aplicacion\bin\Debug\net8.0\Nomina.Persistencia.pdb
+C:\Calidad\Nomina\Nomina.Aplicacion\obj\Debug\net8.0\Nomina.A.B3E1101B.Up2Date
+C:\Calidad\Nomina\Nomina.Aplicacion\obj\Debug\net8.0\Nomina.Aplicacion.dll
+C:\Calidad\Nomina\Nomina.Aplicacion\obj\Debug\net8.0\refint\Nomina.Aplicacion.dll
+C:\Calidad\Nomina\Nomina.Aplicacion\obj\Debug\net8.0\Nomina.Aplicacion.pdb
+C:\Calidad\Nomina\Nomina.Aplicacion\obj\Debug\net8.0\ref\Nomina.Aplicacion.dll
